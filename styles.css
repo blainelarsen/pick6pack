@@ -3,6 +3,10 @@
     max-width: 100%;
 }
 
+.body {
+    background: #222;
+}
+
 .banner-image {
     max-width: 100%;
 }
